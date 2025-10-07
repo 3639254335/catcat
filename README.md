@@ -23,6 +23,7 @@
 ###  项目仓库
 - [Gitee仓库](https://gitee.com/Autole/cat-bot-ntqq)  *主源，国内访问推荐这个
 - [Github仓库](https://github.com/3639254335/catcat)  *备用，防止主源被ban，内容与主源是同步的（同步可能有延迟）
+- [Gitea仓库](tttps://) *备用，防止以上两个源都被ban，内容镜像github（同步可能有延迟），部分情况下可能会出现访问不了或下载速度慢等奇葩问题
 
 #### 使用说明
 
