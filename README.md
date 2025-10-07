@@ -22,7 +22,7 @@
 
 ###  项目仓库
 - [Gitee仓库](https://gitee.com/Autole/cat-bot-ntqq)  *主源，国内访问推荐这个
-- [Github仓库](https://github.com/3639254335/catcat)  *备用，防止主源被ban，内容与主源是同步的
+- [Github仓库](https://github.com/3639254335/catcat)  *备用，防止主源被ban，内容与主源是同步的（同步可能有延迟）
 
 #### 使用说明
 
